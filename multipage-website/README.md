@@ -6,3 +6,4 @@
 ```
 
 ## Screen
+<img src="public/screenshot.png" alt="Multipage Screen"/>
