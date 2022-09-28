@@ -6,4 +6,4 @@
 ```
 
 ## Screen
-<img src="/public/screenshot.png" alt="Quote Screen"/>
+<img src="public/screenshot.png" alt="Quote Screen"/>
